@@ -1,0 +1,6 @@
+name,value
+data_dir_covid,/Users/chaosdonkey06/Dropbox/covid_fb/data/
+geo_dir,/Users/chaosdonkey06/Dropbox/shapefiles/colombia/
+graph_dir,/Users/chaosdonkey06/Dropbox/covid_graphs/
+data_dir_col,/Users/chaosdonkey06/Dropbox/EAKF_Forecast/data_col/
+results_dir,/Users/chaosdonkey06/Dropbox/EAKF_Forecast/
