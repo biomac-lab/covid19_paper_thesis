@@ -17,7 +17,8 @@ incidence = incidence(2:num_times+1,:);
 
 % incidence = incidence(1:num_times,:);
 num_times = size(incidence,1);
-M = zeros(size(incidence,2),size(incidence,2),size(incidence,1));
+M = load('movement_matrix.mat');
+
 num_loc=size(incidence,2);%number of locations
 
 Td   = 9;%average reporting delay
