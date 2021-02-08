@@ -1,0 +1,72 @@
+,poly_id,attr_population,name
+0,5001,2529403.0,Medellín-Antioquia
+1,5045,195068.0,Apartadó-Antioquia
+2,5088,482255.0,Bello-Antioquia
+3,5129,80538.0,Caldas-Antioquia
+4,5154,120479.0,Caucasia-Antioquia
+5,5266,238173.0,Envigado-Antioquia
+6,5360,276936.0,Itagüí-Antioquia
+7,5837,172314.0,Turbo-Antioquia
+8,8001,1232766.0,Barranquilla-Atlántico
+9,8078,59561.0,Baranoa-Atlántico
+10,8296,46302.0,Galapa-Atlántico
+11,8433,127221.0,Malambo-Atlántico
+12,8573,26747.0,Puerto Colombia-Atlántico
+13,8638,101347.0,Sabanalarga-Atlántico
+14,8758,666109.0,Soledad-Atlántico
+15,11001,8181047.0,Bogotá D.C.-Bogotá d C.
+16,13001,1036412.0,Cartagena de Indias-Bolívar
+17,15001,199137.0,Tunja-Boyacá
+18,15238,113954.0,Duitama-Boyacá
+19,15759,111799.0,Sogamoso-Boyacá
+20,17001,400154.0,Manizales-Caldas
+21,17380,78135.0,La Dorada-Caldas
+22,18001,181514.0,Florencia-Caquetá
+23,19001,284949.0,Popayán-Cauca
+24,20001,483250.0,Valledupar-Cesar
+25,20011,95782.0,Aguachica-Cesar
+26,23001,460223.0,Montería-Córdoba
+27,23162,93713.0,Cereté-Córdoba
+28,23417,120558.0,Lorica-Córdoba
+29,23660,90406.0,Sahagún-Córdoba
+30,25175,135752.0,Chía-Cundinamarca
+31,25290,142426.0,Fusagasugá-Cundinamarca
+32,25307,106818.0,Girardot-Cundinamarca
+33,25473,89108.0,Mosquera-Cundinamarca
+34,25754,544997.0,Soacha-Cundinamarca
+35,25899,128426.0,Zipaquirá-Cundinamarca
+36,27425,32486.0,Medio Atrato-Chocó
+37,41001,347501.0,Neiva-Huila
+38,41551,133177.0,Pitalito-Huila
+39,44001,287009.0,Riohacha-La Guajira
+40,44430,164424.0,Maicao-La Guajira
+41,47001,507324.0,Santa Marta-Magdalena
+42,47189,105208.0,Ciénaga-Magdalena
+43,50001,516802.0,Villavicencio-Meta
+44,52001,455863.0,Pasto-Nariño
+45,52356,148297.0,Ipiales-Nariño
+46,52835,212692.0,San Andrés de Tumaco-Nariño
+47,54001,668966.0,Cúcuta-Norte de Santander
+48,54405,79349.0,Los Patios-Norte de Santander
+49,54874,94782.0,Villa del Rosario-Norte de Santander
+50,63001,301226.0,Armenia-Quindio
+51,66001,476660.0,Pereira-Risaralda
+52,66170,204737.0,Dosquebradas-Risaralda
+53,68001,528683.0,Bucaramanga-Santander
+54,68081,191495.0,Barrancabermeja-Santander
+55,68276,267170.0,Floridablanca-Santander
+56,68307,195426.0,Girón-Santander
+57,68547,159729.0,Piedecuesta-Santander
+58,70001,286716.0,Sincelejo-Sucre
+59,73001,569346.0,Ibagué-Tolima
+60,73268,75949.0,Espinal-Tolima
+61,76001,2445281.0,Cali-Valle del Cauca
+62,76109,423927.0,Buenaventura-Valle del Cauca
+63,76111,114569.0,Guadalajara de Buga-Valle del Cauca
+64,76147,134309.0,Cartago-Valle del Cauca
+65,76520,310608.0,Palmira-Valle del Cauca
+66,76834,219138.0,Tuluá-Valle del Cauca
+67,76892,125624.0,Yumbo-Valle del Cauca
+68,85001,149423.0,Yopal-Casanare
+69,86568,62232.0,Puerto Asís-Putumayo
+70,91001,42280.0,Leticia-Amazonas
